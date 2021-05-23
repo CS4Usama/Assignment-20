@@ -11,6 +11,9 @@
 # production
 /build
 
+# mine...
+/z.txt
+
 # misc
 .DS_Store
 .env.local
